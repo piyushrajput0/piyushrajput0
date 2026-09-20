@@ -27,13 +27,11 @@ I build backend systems and intelligent applications — from REST APIs and micr
 
 ### Stats
 
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=piyushrajput0&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushrajput0&layout=compact&theme=default&hide_border=true" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyushrajput0&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=piyushrajput0&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushrajput0&layout=compact&hide_border=true)
 
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=piyushrajput0&hide_border=true)
 ---
 
 ### Connect
