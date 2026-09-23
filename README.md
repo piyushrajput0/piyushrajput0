@@ -1,44 +1,39 @@
-# Piyush Singh
+# Piyush Kumar Singh
 
-**Software Developer** · Python · C# · .NET Core · LLMs
+Backend and systems developer at Vonage — Python, C#, .NET Core, and lately a lot
+of Swift. Delhi, India.
 
----
-
-### About
-
-I build backend systems and intelligent applications — from REST APIs and microservices to LLM-powered tooling. I care about clean architecture, readable code, and shipping things that actually work.
-
-- 🔭 Currently exploring: LLM agents and RAG pipelines
-- 🛠 Stack: Python, C#, .NET Core, SQL
-- 📍 India
+I like software that does one useful thing without asking for an account, a
+subscription, or a network connection.
 
 ---
 
-### Tech
+## Things I've built
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+### [MacToys](https://github.com/piyushrajput0/MacToys) · Swift
 
----
+**The Windows features macOS never shipped.** Clipboard history, screenshot to
+clipboard, on-device screen OCR, a colour picker, window snapping, trackpad
+volume, and the `Home`/`End`/`⌘X` habits you had on Windows — one menu-bar app
+for people who switched and miss `Win`+`V`.
 
-### Stats
+No dependencies, no account, and no network code anywhere in the repository — a
+clipboard manager sees everything you copy, so nothing leaves your Mac. 126 tests
+that run headless, without Xcode.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyushrajput0&show_icons=true&theme=default&hide_border=true&count_private=true)
+### [Job Wrapper](https://github.com/piyushrajput0/job-wrapper) · Python
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushrajput0&layout=compact&hide_border=true)
+Finds jobs across 19 sources, tailors a résumé to each one, and fills in the
+application forms. There is a truthfulness firewall in front of the writer, so it
+cannot invent experience you do not have, and a human in front of the submit
+button.
 
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=piyushrajput0&hide_border=true)
----
-
-### Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/piyushsingh1805)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:singhpiyush1805@gmail.com)
+A CLI, a local web UI, and a Chrome extension that works on career sites it has
+never seen. 229 tests. Everything runs on your own machine.
 
 ---
 
-<sub>Last updated: 2026</sub>
+## Elsewhere
+
+[LinkedIn](https://linkedin.com/in/piyushsingh1805) ·
+[singhpiyush1805@gmail.com](mailto:singhpiyush1805@gmail.com)
